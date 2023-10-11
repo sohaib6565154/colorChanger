@@ -1,0 +1,26 @@
+*
+{
+  height: 100%;
+  width: 100%;
+}
+.backside
+{
+  display: flex;
+  position: fixed;
+  justify-content: center;
+  top: 0;
+}
+.frontside
+{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  width: 80%;
+  height: 30px;
+  background-color: white;
+}
+.abc {
+  border-radius: 100%;
+  width: 60px;
+  margin: 0% 5%;
+}
